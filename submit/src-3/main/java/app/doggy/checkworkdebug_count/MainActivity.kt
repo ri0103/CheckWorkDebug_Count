@@ -5,7 +5,7 @@ import android.os.Bundle
 import app.doggy.checkworkdebug_count.databinding.ActivityMainBinding
 
 /**
- * 問題4
+ * 問題3
  * MainActivity.ktのみを修正して、アプリを起動してください。
  */
 
